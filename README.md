@@ -1,5 +1,3 @@
-Welcome to my hangman game using AngularJS and HTML/SCSS!
-
 ## Some things about my project
 
 - I developed an immersive and interactive user interface using front-end technologies that provide an authentic gaming experience with a fully functional keyboard.
